@@ -18,7 +18,7 @@ function getComputerChoice() {
 
 // Create a Function for the Human choice in Rock Paper Scissors
 function getHumanChoice() {
-    let humanChoiceInput = prompt("Input your choice");
+    let humanChoiceInput = prompt("Input your choice: Open your browser console!");
     return humanChoiceInput;
 }
 
